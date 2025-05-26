@@ -20,15 +20,26 @@ A project exploring handwritten digit recognition on the MNIST dataset using Mul
 
 ## ▶️ Quick Start
 
-1.  **Clone the repo:**
+
+1.  **Clone the Repository:**
+
+    You can clone the repository to your local machine by running the following command in your terminal:
     ```bash
     git clone [https://github.com/aslihanzehradonmez/Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset.git](https://github.com/aslihanzehradonmez/Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset.git)
+    ```
+    Alternatively, you can visit the repository page directly:
+    ➡️ [Project Repository Link](https://github.com/aslihanzehradonmez/Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset.git)
+
+    After cloning, navigate into the project directory:
+    ```bash
     cd Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset
     ```
+
 2.  **Install dependencies:**
     ```bash
     pip install tensorflow numpy matplotlib jupyterlab
     ```
+
 3.  **Run the Jupyter Notebook:**
     Launch `jupyter lab` or `jupyter notebook` and open:
     `Handwritten Digit Recognition Using MLP and CNN on the MNIST Dataset.ipynb`
