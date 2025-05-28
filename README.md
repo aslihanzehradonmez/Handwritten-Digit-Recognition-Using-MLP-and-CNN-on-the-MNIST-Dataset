@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition Using MLP and CNN on the MNIST Dataset 📊
 
-A project exploring handwritten digit recognition on the MNIST dataset using Multi-Layer Perceptrons (MLP) and Convolutional Neural Networks (CNN) with TensorFlow/Keras.
+This project explores handwritten digit recognition on the MNIST dataset using TensorFlow/Keras. It implements and compares Multi-Layer Perceptron (MLP) and Convolutional Neural Network (CNN) models, demonstrating key steps from preprocessing to training with Dropout & Early Stopping, and evaluating their performance.
 
 ## ✨ Key Features
 
