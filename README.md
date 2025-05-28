@@ -46,4 +46,4 @@ A project exploring handwritten digit recognition on the MNIST dataset using Mul
 
 ## 🏆 Outcome
 
-The notebook demonstrates the process of building, training, and evaluating two common neural network types for image classification, typically showing CNNs achieving higher accuracy on this task.
+This project provides a hands-on demonstration of building, training, and evaluating both Multi-Layer Perceptron (MLP) and Convolutional Neural Network (CNN) models on the MNIST dataset. The primary outcome is a comparative analysis of how these distinct neural network architectures perform in handwritten digit classification, typically underscoring the higher accuracy achieved by CNNs on image-based tasks. Furthermore, the notebook showcases the effectiveness of techniques such as Dropout and Early Stopping in optimizing model performance and mitigating overfitting.
