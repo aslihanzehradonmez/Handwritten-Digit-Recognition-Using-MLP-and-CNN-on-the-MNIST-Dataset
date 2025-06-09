@@ -25,11 +25,8 @@ This project explores handwritten digit recognition on the MNIST dataset using T
 
     You can clone the repository to your local machine by running the following command in your terminal:
     ```bash
-    git clone [https://github.com/aslihanzehradonmez/Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset.git](https://github.com/aslihanzehradonmez/Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset.git)
+    git clone https://github.com/aslihanzehradonmez/Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset.git
     ```
-    Alternatively, you can visit the repository page directly:
-    ➡️ [Project Repository Link](https://github.com/aslihanzehradonmez/Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset.git)
-
     After cloning, navigate into the project directory:
     ```bash
     cd Handwritten-Digit-Recognition-Using-MLP-and-CNN-on-the-MNIST-Dataset
